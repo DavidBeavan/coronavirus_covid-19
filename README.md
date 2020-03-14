@@ -1,7 +1,13 @@
 # Coronavirus (COVID-19) Visualise and Map
 ## David Beavan @DavidBeavan
 
+## Contributions, suggestions, pull requests all welcome
+
 ## Licence: MIT
+
+![England](https://pbs.twimg.com/media/ETAgwTiWoAAD1dy?format=png&name=900x900)
+
+![London](https://pbs.twimg.com/media/ETAhfgHWAAAL0pa?format=png&name=900x900)
 
 ## Sources
 
