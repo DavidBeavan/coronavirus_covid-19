@@ -5,9 +5,9 @@
 
 ## Licence: MIT
 
-![England](https://pbs.twimg.com/media/ETGOy4qWkAYTdRc?format=png&name=900x900)
+![England](https://github.com/DavidBeavan/coronavirus_covid-19/blob/master/outputs/maps/coronavirus_covid-19_england_map_raw_animation_2020-03-16.gif?raw=true)
 
-![London](https://pbs.twimg.com/media/ETGO9twXsAEND0G?format=png&name=900x900)
+![London](https://github.com/DavidBeavan/coronavirus_covid-19/blob/master/outputs/maps/coronavirus_covid-19_london_map_normalised_animation_2020-03-16.gif?raw=true)
 
 ## Sources
 
