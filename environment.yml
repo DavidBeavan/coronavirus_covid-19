@@ -107,6 +107,7 @@ dependencies:
   - notebook=6.0.3=py37_0
   - numpy=1.18.1=py37h4f9e942_0
   - numpy-base=1.18.1=py37hde5b4d6_1
+  - olefile=0.46=py37_0
   - openjpeg=2.3.0=h05c96fa_1
   - openssl=1.1.1d=h7b6447c_4
   - pandas=1.0.1=py37h0573a6f_0
@@ -116,6 +117,7 @@ dependencies:
   - pcre=8.43=he6710b0_0
   - pexpect=4.8.0=py37_0
   - pickleshare=0.7.5=py37_0
+  - pillow=7.0.0=py37hb39fc2d_0
   - pip=20.0.2=py37_1
   - pixman=0.38.0=h7b6447c_0
   - poppler=0.65.0=h581218d_1
