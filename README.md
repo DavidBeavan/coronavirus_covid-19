@@ -1,9 +1,17 @@
 # Coronavirus (COVID-19) Visualise and Map
-## David Beavan @DavidBeavan
-
+## David Beavan [@DavidBeavan](https://twitter.com/DavidBeavan)
 ## Contributions, suggestions, pull requests all welcome
-
 ## Licence: MIT
+
+## See and do
+
+* [Tabular time series of England cases by area](https://github.com/DavidBeavan/coronavirus_covid-19/blob/master/data/secondary_sources/utla_cases_table/utla_cases.csv)
+* [Maps and animations](https://github.com/DavidBeavan/coronavirus_covid-19/tree/master/outputs/maps)
+* Open source [code](https://github.com/DavidBeavan/coronavirus_covid-19)
+* Make [suggestions](https://github.com/DavidBeavan/coronavirus_covid-19/issues)
+* Contribute your [tweaks and enhancements](https://github.com/DavidBeavan/coronavirus_covid-19/pulls)
+
+## Examples
 
 ![England](https://github.com/DavidBeavan/coronavirus_covid-19/blob/master/outputs/maps/coronavirus_covid-19_england_map_raw_animation_2020-03-16.gif?raw=true)
 
