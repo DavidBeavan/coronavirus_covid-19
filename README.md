@@ -9,9 +9,9 @@
 
 ## Examples
 
-![England](https://github.com/DavidBeavan/coronavirus_covid-19/blob/master/outputs/maps/coronavirus_covid-19_england_map_raw_animation_2020-04-02.gif?raw=true)
+![England](https://github.com/DavidBeavan/coronavirus_covid-19/blob/master/outputs/maps/coronavirus_covid-19_england_map_raw_animation_2020-04-03.gif?raw=true)
 
-![London](https://github.com/DavidBeavan/coronavirus_covid-19/blob/master/outputs/maps/coronavirus_covid-19_london_map_normalised_animation_2020-04-02.gif?raw=true)
+![London](https://github.com/DavidBeavan/coronavirus_covid-19/blob/master/outputs/maps/coronavirus_covid-19_london_map_normalised_animation_2020-04-03.gif?raw=true)
 
 ## Sources
 
