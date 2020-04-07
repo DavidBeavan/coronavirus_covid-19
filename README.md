@@ -9,9 +9,9 @@
 
 ## Examples
 
-![England](https://github.com/DavidBeavan/coronavirus_covid-19/blob/master/outputs/maps/coronavirus_covid-19_england_map_raw_animation_2020-04-06.gif?raw=true)
+![England](https://github.com/DavidBeavan/coronavirus_covid-19/blob/master/outputs/maps/coronavirus_covid-19_england_map_raw_animation_2020-04-07.gif?raw=true)
 
-![London](https://github.com/DavidBeavan/coronavirus_covid-19/blob/master/outputs/maps/coronavirus_covid-19_london_map_normalised_animation_2020-04-06.gif?raw=true)
+![London](https://github.com/DavidBeavan/coronavirus_covid-19/blob/master/outputs/maps/coronavirus_covid-19_london_map_normalised_animation_2020-04-07.gif?raw=true)
 
 ## Sources
 
@@ -28,4 +28,3 @@ Crown copyright 2019
 https://www.arcgis.com/home/item.html?id=b684319181f94875a6879bbc833ca3a6
 Data is based on cases reported to PHE and matched to ONS administrative geography codes and names to generate geographic case counts.
 Contains Ordnance Survey data © Crown copyright and database right 2020.  Contains National Statistics data © Crown copyright and database right 2020
-
