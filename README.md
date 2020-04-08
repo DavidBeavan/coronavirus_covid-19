@@ -1,6 +1,8 @@
 # Coronavirus (COVID-19) Visualise and Map
 ## David Beavan [@DavidBeavan](https://twitter.com/DavidBeavan)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DavidBeavan/coronavirus_covid-19/master?filepath=coronavirus_covid-19_england_map.ipynb)
+
 * [Tabular time series of England cases by area](https://github.com/DavidBeavan/coronavirus_covid-19/blob/master/data/secondary_sources/utla_cases_table/utla_cases.csv)
 * Many more [maps and animations](https://github.com/DavidBeavan/coronavirus_covid-19/tree/master/outputs/maps)
 * Open source [code](https://github.com/DavidBeavan/coronavirus_covid-19), MIT licence
