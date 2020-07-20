@@ -1,3 +1,6 @@
+# Currently paused
+https://www.theguardian.com/society/2020/jul/18/daily-updates-on-english-covid-19-deaths-paused-amid-accuracy-concerns
+
 # Coronavirus (COVID-19) Visualise and Map
 ## David Beavan [@DavidBeavan](https://twitter.com/DavidBeavan)
 
@@ -11,9 +14,9 @@
 
 ## Examples
 
-![England](https://github.com/DavidBeavan/coronavirus_covid-19/blob/master/outputs/maps/coronavirus_covid-19_england_map_raw_animation_2020-06-08.gif?raw=true)
+![England](https://github.com/DavidBeavan/coronavirus_covid-19/blob/master/outputs/maps/coronavirus_covid-19_england_map_raw_animation_2020-07-18.gif?raw=true)
 
-![London](https://github.com/DavidBeavan/coronavirus_covid-19/blob/master/outputs/maps/coronavirus_covid-19_london_map_normalised_animation_2020-06-08.gif?raw=true)
+![London](https://github.com/DavidBeavan/coronavirus_covid-19/blob/master/outputs/maps/coronavirus_covid-19_london_map_normalised_animation_2020-07-18.gif?raw=true)
 
 ## Sources
 
